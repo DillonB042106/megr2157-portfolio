@@ -83,6 +83,7 @@ A homepage should be simple and concise. A simple professional title showing you
 
 I changed the main color to red as opposed to green. I think that red is a defining color and captures the attention of the reader. I think that red screams, “look at me.”
 
+I intend to follow a standard of work that is professional, in depth, satisfies grading rubrics, and follows explicit instructions.
 
 
 
