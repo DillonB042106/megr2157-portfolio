@@ -53,7 +53,7 @@ Center pin: holds both jaws together and provides a pivot point for the jaws. Ab
 
 <img align = right width="290" height="416" alt="US1561833-drawings-page-1" src="https://github.com/user-attachments/assets/4f66e704-66cb-404a-9841-a821f90c524d" />
 
-Patent: U.S. Patent No. US1561833A
+### Patent: U.S. Patent No. US1561833A
 
 Title: Plier wrench
 
@@ -78,6 +78,8 @@ ii.  Identify one design decision the original engineer made : something you can
 One specific detail I noticed are the teeth specifically pointed in a round orientation pointing towards the center of the nut to oppose rotation. 
 
 ## Decide
+
+A homepage should be simple and concise. A simple professional title showing your name, role, and organization followed by a professional picture is the standard. Someone should be able to easily identify you and your role based off of your homepage. An intriguing picture of a design or project you were involved in may be used to capture someone's attention. All subsections including project and about me page should be accessible with little navigation, but not popping up first thing in the reader's face.
 
 
 
