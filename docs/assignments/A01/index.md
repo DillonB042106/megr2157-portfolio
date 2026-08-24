@@ -47,6 +47,12 @@ Handle and jaw: smooth, long, handle used to establish mechanical advantage. Rig
 
 Center pin: holds both jaws together and provides a pivot point for the jaws. Absorbs shock and friction from the user.
 
+
+
+
+
+<img align = right width="290" height="416" alt="US1561833-drawings-page-1" src="https://github.com/user-attachments/assets/4f66e704-66cb-404a-9841-a821f90c524d" />
+
 Patent: U.S. Patent No. US1561833A
 
 Title: Plier wrench
@@ -57,7 +63,9 @@ Filing date: July 9, 1924
 
 Patent date: November 17, 1925
 
-<img width="435" height="639" alt="US1561833-drawings-page-1" src="https://github.com/user-attachments/assets/4f66e704-66cb-404a-9841-a821f90c524d" />
+
+
+
 
 
 i.  List at least two alternative solutions or devices that solve the same primary function.
@@ -72,5 +80,15 @@ One specific detail I noticed are the teeth specifically pointed in a round orie
 ## Decide
 
 
+
+
+
+
 ## Communicate
+
+
+
+
+
+
 
