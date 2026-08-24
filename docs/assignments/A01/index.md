@@ -19,7 +19,7 @@ This portfolio definitely uses proper and professional language on all pages to 
 
 
 #### Nathan Hoong(GitHub Address)
-Nathan Hoong Homepage - 
+[Nathan Hoong Homepage](https://nhoong.github.io/index.html)
 
 Nathan's designs are posted on his homepage just under his introduction giving all of his assignments/pieces of work up front almost instantly.
 
