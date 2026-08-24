@@ -90,6 +90,7 @@ I intend to follow a standard of work that is professional, in depth, satisfies 
 
 
 ## Communicate
+I have spent roughly 4 to 5 hours on this assignment on and off throughout the weekend. 
 
 
 
