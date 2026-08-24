@@ -81,6 +81,8 @@ One specific detail I noticed are the teeth specifically pointed in a round orie
 
 A homepage should be simple and concise. A simple professional title showing your name, role, and organization followed by a professional picture is the standard. Someone should be able to easily identify you and your role based off of your homepage. An intriguing picture of a design or project you were involved in may be used to capture someone's attention. All subsections including project and about me page should be accessible with little navigation, but not popping up first thing in the reader's face.
 
+I changed the main color to red as opposed to green. I think that red is a defining color and captures the attention of the reader. I think that red screams, “look at me.”
+
 
 
 
