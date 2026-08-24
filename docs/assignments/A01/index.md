@@ -57,6 +57,8 @@ Filing date: July 9, 1924
 
 Patent date: November 17, 1925
 
+<img width="435" height="639" alt="US1561833-drawings-page-1" src="https://github.com/user-attachments/assets/4f66e704-66cb-404a-9841-a821f90c524d" />
+
 
 i.  List at least two alternative solutions or devices that solve the same primary function.
 
