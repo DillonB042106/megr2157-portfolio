@@ -43,12 +43,17 @@ The pliers work using simple leverage principles. Using a longer gripping handle
 
 In statics we assumed that all pliers are rigid bodies and pivots as frictionless which allowed us to calculate torque and crimping forces.
 
-Handle and jaw: smooth, long, handle used to establish mechanical advantage. Rigid jaw with grooves and teeth to grip onto bolts#####INSERT PHOTOS###
 
+<img width="300" height="400" alt="IMG_9983" src="https://github.com/user-attachments/assets/6b793461-41da-47b6-b4d3-f82344b4c9c9" />
+Handle and jaw: smooth, long, handles used to establish mechanical advantage. Rigid jaw with grooves and teeth to grip onto bolts
+<br><br><br>
+<br><br><br>
+<img width="300" height="400" alt="IMG_9985" src="https://github.com/user-attachments/assets/e58b531e-0dc6-4a0c-8f62-6a944bfc2913" />
 Center pin: holds both jaws together and provides a pivot point for the jaws. Absorbs shock and friction from the user.
+ 
 
-
-
+<br><br><br>
+<br><br><br>
 
 
 <img align = right width="290" height="416" alt="US1561833-drawings-page-1" src="https://github.com/user-attachments/assets/4f66e704-66cb-404a-9841-a821f90c524d" />
