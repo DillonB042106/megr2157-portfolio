@@ -6,7 +6,7 @@ I am a junior year mechanical engineering student at the University of North Car
 
 I am becoming a better engineer daily by learning different problem solving techniques. I am learning how to approach problems with an open mind and explore multiple ways to solve problems. I find it best to work backwards from a problem in order to establish a general solution and then refining the process after. I intend on finding the best way to design and manufacture products with reliability, cost, adaptability, and sustainability to develop solutions.
 
-What does it mean to defend an engineering decision : and do you currently know how to do it?
+* What does it mean to defend an engineering decision : and do you currently know how to do it?
 
 I would define an engineering decision as calculated, informed, and thought out. Nearly all of the decisions that engineers make are depended on by other processes. Engineering decisions must be precise and work symbiotically with others. Engineering decisions should be reviewed by peers and colleagues in order to make sure of accuracy and effectiveness. I can't say with confidence that I can make an engineering decision. I am still learning and I am not able to accurately produce an engineering decision.
 
