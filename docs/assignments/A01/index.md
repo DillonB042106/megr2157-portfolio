@@ -6,7 +6,7 @@ Launching and designing an E-Portfolio tailored to my educational and profession
 ## Analyze
 ### Part A
 #### Jack Stevens
-Race car frame design - 
+[Race car frame design](https://johnduncanstevens.wixsite.com/portfolio/copy-of-accelerator-pedal-mount-ner)
  
 Jack’s page is easily navigable using the "Engineering Projects,” tab along with his work, and educational experience. His different projects are listed with a picture and a brief description before clicking on any links. Under each link is the process in which Jack has used to source a problem, recognize a solution, overcome design hurdles, and publish/implement some of his designs.
 
