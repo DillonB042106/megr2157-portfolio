@@ -10,7 +10,7 @@ I analyzed the forces that acted up the truss and braces the structure according
 I chose a trapezoidal geometry with triangle bracing to spread out load and make sure the roller support stays static.
 ## Communicate
 
-![Alternative text here](https://drive.google.com/file/d/1JMwU3lDne7hq3cKF_cKGQ1t9pY8KYUZ0/view?usp=sharing)
+![Alternative text here](https://drive.google.com/file/d/1w6jn3JkOcIlLkWOipHJ97qxu5m4x6KVZ/view?usp=sharing)
 
 
 <p>Initial thought process to find the best truss structure.</p>
