@@ -10,87 +10,28 @@ I analyzed the forces that acted up the truss and braces the structure according
 I chose a trapezoidal geometry with triangle bracing to spread out load and make sure the roller support stays static.
 ## Communicate
 
-[![IMG-0026.jpg](https://i.postimg.cc/J49QGy9y/IMG-0026.jpg)](https://postimg.cc/F7VS6KFm)
 
-<p>Initial thought process to find the best truss structure.</p>
+[url=https://postimg.cc/F7VS6KFm][img]https://i.postimg.cc/F7VS6KFm/IMG-0026.jpg[/img][/url]
 
-<img src="https://drive.google.com/uc?export=view&id=1pTOlcO3e37uvtT0VQ_OX7kPQxsmv8fCw" alt="Picture 1" width="700">
+[url=https://postimg.cc/D4KWC9tW][img]https://i.postimg.cc/D4KWC9tW/IMG-0027.jpg[/img][/url]
 
-<br><br>
+[url=https://postimg.cc/hQqJCkHQ][img]https://i.postimg.cc/hQqJCkHQ/IMG-0028.jpg[/img][/url]
 
+[url=https://postimg.cc/fSh3HG69][img]https://i.postimg.cc/fSh3HG69/IMG-0029.jpg[/img][/url]
 
+[url=https://postimg.cc/Zvh9fG1N][img]https://i.postimg.cc/Zvh9fG1N/IMG-0032.jpg[/img][/url]
 
-<p>FBD and truss analysis.</p>
+[url=https://postimg.cc/fSh3HG6m][img]https://i.postimg.cc/fSh3HG6m/IMG-0033.jpg[/img][/url]
 
-<img src="https://drive.google.com/uc?export=view&id=1w6jn3JkOcIlLkWOipHJ97qxu5m4x6KVZ" alt="Picture 3" width="700">
+[url=https://postimg.cc/hQqJCkHL][img]https://i.postimg.cc/hQqJCkHL/IMG-0034.jpg[/img][/url]
 
-<br><br>
+[url=https://postimg.cc/K3r1C9bv][img]https://i.postimg.cc/K3r1C9bv/IMG-0030.jpg[/img][/url]
 
+[url=https://postimg.cc/zHSy4dNB][img]https://i.postimg.cc/zHSy4dNB/IMG-0031.jpg[/img][/url]
 
-
-<p>Truss analysis and joint loads.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1JMwU3lDne7hq3cKF_cKGQ1t9pY8KYUZ0"
-     alt="Picture 1"
-     width="700">
-<br><br>
+[url=https://postimg.cc/sG9Mbnz1][img]https://i.postimg.cc/sG9Mbnz1/Truss-in-cad.png[/img][/url]
 
 
-
-<p>Joint analysis.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1UYu1v-o0pDPYcuJujL-gTasYhZoi1KhT" alt="Picture 4" width="700">
-
-<br><br>
-
-
-
-<p>Paper truss design and angles.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1BBbbwnzlapEE5Y-8FHjJl_8IpM9nGpnU" alt="Picture 5" width="700">
-
-<br><br>
-
-
-
-<p>Cross sectional area calculations and loads.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1c0cLlBpLZ1AkS6j9qcBYMnT2W_6ZxG7z" alt="Picture 6" width="700">
-
-<br><br>
-
-
-
-<p>Part 5: What I learned.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1wpJZZPfu7f6A12sBbO4-7EXL1mslumfU" alt="Picture 7" width="700">
-
-<br><br>
-
-
-
-<p>Failure points on truss.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=10g2QRcaMMGWRjH1-6mVG04cgPwloUsEx" alt="Picture 8" width="700">
-
-<br><br>
-
-
-
-
-<p>Failure points on truss and pins.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1aRDPqB2lCbc50GuxNGzKXSDEpX8TyM_M" alt="Picture 9" width="700">
-
-<br><br>
-
-
-
-<p>Truss design in CAD.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1yl2G2tljR-LGcBXcBFseJsXhfdBp_obI" alt="Picture 10" width="700">
-
-<br><br>
 
 
 
