@@ -30,8 +30,9 @@ I chose a trapezoidal geometry with triangle bracing to spread out load and make
 
 <p>Truss analysis and joint loads.</p>
 
-<img src="https://drive.google.com/uc?export=view&id=1JMwU3lDne7hq3cKF_cKGQ1t9pY8KYUZ0" alt="Picture 2" width="700">
-
+<img src="https://drive.google.com/uc?export=view&id=1JMwU3lDne7hq3cKF_cKGQ1t9pY8KYUZ0"
+     alt="Picture 1"
+     width="700">
 <br><br>
 
 
@@ -93,9 +94,10 @@ I chose a trapezoidal geometry with triangle bracing to spread out load and make
 
 
 
-
-<p>Download Calculations.</p>
-
 <a href="(https://drive.google.com/file/d/1TdPPFPcR_ZlZRJJNAv3VR-6iq8mNjGXO/view?usp=sharing)" target="_blank">
-    Click here to download my calculations
+    Click here to download my cad file
 </a>
+
+
+
+
