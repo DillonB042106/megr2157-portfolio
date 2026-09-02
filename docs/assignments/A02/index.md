@@ -11,7 +11,7 @@ I chose a trapezoidal geometry with triangle bracing to spread out load and make
 ## Communicate
 
 
-<a href="https://postimg.cc/F7VS6KFm" target="_blank"><img src="https://i.postimg.cc/F7VS6KFm/IMG-0026.jpg" alt="IMG-0026"></a><br><br>
+<a href="https://postimg.cc/F7VS6KFm" target="_blank"><img src="https://i.postimg.cc/F7VS6KFm/IMG-0026.jpg" alt="IMG-0026" width = 100%></a><br><br>
 <a href="https://postimg.cc/D4KWC9tW" target="_blank"><img src="https://i.postimg.cc/D4KWC9tW/IMG-0027.jpg" alt="IMG-0027"></a><br><br>
 <a href="https://postimg.cc/hQqJCkHQ" target="_blank"><img src="https://i.postimg.cc/hQqJCkHQ/IMG-0028.jpg" alt="IMG-0028"></a><br><br>
 <a href="https://postimg.cc/fSh3HG69" target="_blank"><img src="https://i.postimg.cc/fSh3HG69/IMG-0029.jpg" alt="IMG-0029"></a><br><br>
