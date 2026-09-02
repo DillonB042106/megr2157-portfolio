@@ -42,6 +42,8 @@ I chose a trapezoidal geometry with triangle bracing to spread out load and make
 
 
 
+[truss_4.prt.zip](https://github.com/user-attachments/files/31761871/truss_4.prt.zip)
+
 
 
 
