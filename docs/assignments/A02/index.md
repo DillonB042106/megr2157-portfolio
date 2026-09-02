@@ -12,6 +12,11 @@ I chose a trapezoidal geometry with triangle bracing to spread out load and make
 
 
 
+
+<img src="https://ibb.co/mVD2pq1c"
+     alt="Picture 1"
+     width="700">
+
 <p>Initial thought process to find the best truss structure.</p>
 
 <img src="https://drive.google.com/uc?export=view&id=1pTOlcO3e37uvtT0VQ_OX7kPQxsmv8fCw" alt="Picture 1" width="700">
