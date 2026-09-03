@@ -10,6 +10,7 @@ I analyzed the forces that acted up the truss and braces the structure according
 I chose a trapezoidal geometry with triangle bracing to spread out load and make sure the roller support stays static.
 ## Communicate
 
+This assignment took way longer than it should've (13 hours). I finished before I realized that I used a type of steel that is hollow and I computed most of my values with solid square steel. All of my calculations were wrong and the dimensions for my truss changed significantly. I also had to revisit method of joints from statics and double check all of my work.
 
 <a href="https://postimg.cc/F7VS6KFm" target="_blank"><img src="https://i.postimg.cc/J49QGy9y/IMG-0026.jpg" alt="IMG-0026"></a><br><br>
 
