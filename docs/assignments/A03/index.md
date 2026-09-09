@@ -48,3 +48,8 @@ I decided to make the rod solid and with a diameter of 0.5in. I also decided tha
 ## Communicate
 
 All models of deflection and strain are posted above.
+
+
+
+[rod_fea.prt.zip](https://github.com/user-attachments/files/32029093/rod_fea.prt.zip)
+
