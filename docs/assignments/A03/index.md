@@ -1,4 +1,4 @@
-# A3 – [Topic]
+# A3 – Parametric and FEA
 
 ## Objective
 My objective is to give a circular rod with a defined-predetermined area and use material properties and force to make the rod a proper length that avoids a certain amount of deflection.
