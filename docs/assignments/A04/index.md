@@ -1,7 +1,7 @@
 # A4 – Motor Mount Design
 
 ## Objective
-My goal is to design a motor mount given a loaf and material properties. I will use stress and deflection to see whc=ich has a greater impact on the mount. the greater of the 2 forces will be used to decide the thickness of the mount. A length and width are chosen at my discretion. One side of the motor mount will be staticly mounted to a surface(Feature2). The motor side of the mount will have to fit the specific stepper motor's parameters given(Feature1). 
+My goal is to design a motor mount given a loaf and material properties. I will use stress and deflection to see which has a greater impact on the mount. the greater of the 2 forces will be used to decide the thickness of the mount. A length and width are chosen at my discretion. One side of the motor mount will be staticly mounted to a surface(Feature2). The motor side of the mount will have to fit the specific stepper motor's parameters given(Feature1). 
 
 
 
