@@ -45,7 +45,9 @@ I need to design the bracket based on the given concept while providing my own d
 ### Stiffness Analysis
 
 #### Calculations
+
 <a href="https://postimg.cc/fkP4jxyK" target="_blank"><img src="https://i.postimg.cc/PrXtHykB/p4.png" alt="p4"></a><br><br>
+
 <a href="https://postimg.cc/YjPcf10n" target="_blank"><img src="https://i.postimg.cc/3J8Kh1TT/p5.png" alt="p5"></a><br><br>
 
 
