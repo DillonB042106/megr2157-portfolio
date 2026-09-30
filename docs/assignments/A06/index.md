@@ -56,3 +56,9 @@ Depending on the fit type, different tolerances are needed. A slide fit will nee
 #### B
 Dimensioning and tolerancing is a universal language in manufacturing for how things fit together. This allows parts from different manufacturers to come together as one efficiently.
 
+### CAD Files
+
+[TBarBracket_2.zip](https://github.com/user-attachments/files/32877137/TBarBracket_2.zip)
+
+[ovalbracket.drw.zip](https://github.com/user-attachments/files/32877138/ovalbracket.drw.zip)
+
