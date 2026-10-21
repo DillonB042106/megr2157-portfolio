@@ -10,7 +10,7 @@ Perform a finite element analysis on the bracket and link from A 5/6
 ### Design 2
 <a href="https://postimg.cc/PLmVcdXC" target="_blank"><img src="https://i.postimg.cc/25Jp15g7/Screenshot-2026-10-21-164409.png" alt="Screenshot-2026-10-21-164409"></a><br><br>
 <a href="https://postimg.cc/SXW15mSj" target="_blank"><img src="https://i.postimg.cc/pd7Nmd3Q/Screenshot-2026-10-21-164416.png" alt="Screenshot-2026-10-21-164416"></a><br><br>
-## Design 3
+### Design 3
 <a href="https://postimg.cc/7CgtcqHJ" target="_blank"><img src="https://i.postimg.cc/pd7Nmd3C/Screenshot-2026-10-21-164423.png" alt="Screenshot-2026-10-21-164423"></a><br><br>
 <a href="https://postimg.cc/GBkgNbLD" target="_blank"><img src="https://i.postimg.cc/mrqxPrKm/Screenshot-2026-10-21-164431.png" alt="Screenshot-2026-10-21-164431"></a><br><br>
 ### Reflection
