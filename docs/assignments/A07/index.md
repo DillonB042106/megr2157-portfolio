@@ -28,5 +28,9 @@ Perform a finite element analysis on the bracket and link from A 5/6
 ### Reflection
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Kzg6B2yr/Screenshot-2026-10-21-164523.png" alt="Screenshot-2026-10-21-164523"></a><br><br>
 
+### CAD Files
+[NewTbarBracket.zip](https://github.com/user-attachments/files/33789182/NewTbar.zip)<br><br>
+[NewovalBracket.zip](https://github.com/user-attachments/files/33789192/Newoval.bracket.zip)<br><br>
+
 
 
