@@ -112,7 +112,7 @@ Using the thread bearing and bending stress equations from *Shigley's Mechanical
 - [Rockford Ball Screw – Reference ACME Screw Dimensions](https://dpk3n3gg92jwt.cloudfront.net/domains/rockford.ballscrew/pdf/RBS_3-4_ACME_PG1.pdf)
 
 
-## Crosshead Design
+## Crosshead Design (Jackson Dowdle)
 ### Crosshead Design (Stress/Strength)
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/KYJQ2Wgk/A10stress.png" alt="A10stress"></a><br><br>
 
@@ -130,6 +130,12 @@ It was observed that deflection governed the crosshead, so the thickness was cho
 
 The tabulation was based off of the 1018 steel crosshead and lead screw along with the 932 bronze bearing flange nut.
 
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+|---|---|---|---|---|---|
+| 1 | 2 | Precision Acme flange nut, 3/4"-10, 932 bearing bronze (97790A140) | $201.69 | $403.38 | https://www.mcmaster.com/97790A140/ |
+| 2 | 2 | Precision Acme lead screw, 3/4"-10, 1018 low-carbon steel, 2 ft long (minimum 18 in) | $76.18 | $152.36 | https://www.mcmaster.com/99030A030/|
+| 3 | 1 | Multipurpose 1018 low-carbon steel bar, 3/4 in thick × 3 in wide, 2 ft long (crosshead stock) | $74.94 | $74.94 | https://www.mcmaster.com/8910K37-9143K544/ |
+| | | **Total Cost** | | **$630.68** | |
 
 
 
@@ -194,11 +200,10 @@ After the first interaction I increased the overall thickness of the part from 0
 #### Reflection
 This analysis showed that the weakest point of the part is now the interior of the removed section of material. Despite the change, it is still well above all parameters and no further action is needed.
 
-#### Cross head and drawing file
+#### Crosshead and drawing file
 [crossheadFEA.zip](https://github.com/user-attachments/files/34719260/crossheadFEA.zip)
 
 #### Base created to hold screws and frame
 [basetop.zip](https://github.com/user-attachments/files/34719335/basetop.zip)
-
 
 
