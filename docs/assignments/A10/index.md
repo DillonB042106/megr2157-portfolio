@@ -1,3 +1,5 @@
+[leadframedesign.zip](https://github.com/user-attachments/files/35050786/leadframedesign.zip)
+[leadframedesign.zip](https://github.com/user-attachments/files/35050781/leadframedesign.zip)
 # A10: Lead Screw Design
 
 ## Leadscrew Diameter (Ameer Alhaddad)
@@ -154,7 +156,8 @@ The tabulation was based off of the 1018 steel crosshead and lead screw along wi
 <a href='https://postimg.cc/9rxxJgdQ' target='_blank'><img src='https://i.postimg.cc/sgztft17/Screenshot-2026-11-11-174625.png' border='0' alt='Screenshot-2026-11-11-174625'></a>
 
 #### ASSM file
-[leadframedesign.zip](https://github.com/user-attachments/files/35039545/leadframedesign.zip)
+[leadframedesign.zip](https://github.com/user-attachments/files/35050791/leadframedesign.zip)
+
 
 
 
