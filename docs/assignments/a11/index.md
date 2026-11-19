@@ -202,7 +202,7 @@ There might be improvements like increasing the thickness of our material, but w
 
 (Dillon B) Throughout this assignment I have learned the importance of working as a team and communicating the end goal of a project with others. It is important to be on the same page before and especially during the span of the project. A small mistake of one person can affect the entire project and takes excess time to correct. 
 
-## 3157 Portion
+## 2157 Portion
 
 The bill of materials for this section was integrated into section 8 bill of materials.
 
@@ -223,17 +223,17 @@ Base (Pack and Go)
 <a href="https://postimg.cc/xNrwHZ7J" target="_blank"><img src="https://i.postimg.cc/hvhKFW1r/Screenshot-2026-11-18-214631.png" alt="Screenshot-2026-11-18-214631"></a><br><br>
 
 
-Bearing (Pack and Go)
-
-
 
 #### Isometric view of frame
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MGpvt4jv/Screenshot-2026-11-18-223319.png' border='0' alt='Screenshot-2026-11-18-223319'></a>
 
 
 ## Final CAD Files
-
+Due to githubs file size constraints, the motor was removed from the assembly. Linked below is the assembly and motor separately for download.
 
 [4855N17_DC Gearmotor.zip](https://github.com/user-attachments/files/35065019/4855N17_DC.Gearmotor.zip)
+
+
+
 [leadframedesign.zip](https://github.com/user-attachments/files/35065018/leadframedesign.zip)
 
