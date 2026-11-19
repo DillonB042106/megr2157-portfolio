@@ -127,10 +127,42 @@ The bracket load capacity still needs verification.
 
 **DRAFT Tensile Tester Assembly (Pack and Go)**
 
-[Download Complete Assembly](leadframedesign/leadframedesign.SLDASM)
+[Download Assembly](leadframedesign/leadframedesign.SLDASM)
 
 
----
+## 5. FEA Test 1
+
+### Mesh
+<a href="https://postimg.cc/fJyQS18v" target="_blank"><img src="https://i.postimg.cc/CLHhXgD9/A11-mesh.png" alt="A11-mesh"></a><br><br>
+### Stress
+<a href="https://postimg.cc/PP7sWK7Z" target="_blank"><img src="https://i.postimg.cc/T3ddX4qk/A11-stress.png" alt="A11-stress"></a><br><br>
+### Displacement
+<a href="https://postimg.cc/KRjh3C0P" target="_blank"><img src="https://i.postimg.cc/ncYFgJ7P/A11-displacement.png" alt="A11-displacement"></a><br><br>
+### Safety Factor
+<a href="https://postimg.cc/ZCQt8jQN" target="_blank"><img src="https://i.postimg.cc/W1NNPH65/A11-safetyfactor.png" alt="A11-safetyfactor"></a><br><br>
+
+### Improvements
+From the images above I saw that the bar is internally too weak. The thickness of the bar is the first thing that needs to be improved. It's only around 8 mm, which is way too thin to support the 1 kN load on both of the lead screw holes. After finding the proper thickness, it would then be best if there was a way to cut out some weight to optimize the design. 
+
+## 6. FEA Test 2
+
+### Mesh
+<a href='https://postimg.cc/fJbQ0kw7' target='_blank'><img src='https://i.postimg.cc/gkVzQ6Q7/A11-mesh2.png' border='0' alt='A11-mesh2'></a>
+### Stress
+<a href="https://postimg.cc/w1hyyWxL" target="_blank"><img src="https://i.postimg.cc/3xqgq6PS/A11-2astress.png" alt="A11-2astress"></a><br><br>
+### Displacement
+<a href="https://postimg.cc/cvQggD1k" target="_blank"><img src="https://i.postimg.cc/nhWvW5yx/A11-2disp.png" alt="A11-2disp"></a><br><br>
+### Safety Factor
+<a href="https://postimg.cc/qt4t88g8" target="_blank"><img src="https://i.postimg.cc/HL7Q1zgP/A11-2stress.png" alt="A11-2stress"></a><br><br>
+
+### Improvements
+There might be improvements like increasing the thickness of our material, but we are constrained a little by the requirements of the assignment. I believe it is pretty well designed based on all of the parameters.
+
+## 7. Bearing Design 
+
+### Bearing Design 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4xzTmksL/A11-pt7.png' border='0' alt='A11-pt7'></a>
+
 
 
 
