@@ -16,7 +16,7 @@ I selected two **McMaster-Carr #4855N17 DC gearmotors**.
 
 - Rated torque: 11.30 N·m
 - Rated speed: 20 RPM
-- Voltage: 90 V DC
+- Voltage: 90 V dc
 
 
 
