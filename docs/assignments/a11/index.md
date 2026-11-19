@@ -196,4 +196,12 @@ Bearing (Pack and Go)
 
 
 #### Isometric view of frame
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MGpvt4jv/Screenshot-2026-11-18-223319.png' border='0' alt='Screenshot-2026-11-18-223319'></a>
+
+
+## Final CAD Files
+
+
+[4855N17_DC Gearmotor.zip](https://github.com/user-attachments/files/35065019/4855N17_DC.Gearmotor.zip)
+[leadframedesign.zip](https://github.com/user-attachments/files/35065018/leadframedesign.zip)
 
