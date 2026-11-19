@@ -170,5 +170,24 @@ The bracket load capacity still needs verification.
 
 (Dillon B) Throughout this assignment I have learned the importance of working as a team and communicating the end goal of a project with others. It is important to be on the same page before and especially during the span of the project. A small mistake of one person can affect the entire project and takes excess time to correct. 
 
+## 3157 Portion
 
+The bill of materials for this section was integrated into section 8 bill of materials.
+
+
+### Drawings
+#### Designed Parts
+Motor Mount (Pack and Go)
+[MotorMount.zip](https://github.com/user-attachments/files/35063150/MM2.0.zip)
+
+
+Crosshead (Pack and Go)
+[crosshead.zip](https://github.com/user-attachments/files/35063203/crossheadFEA.zip)
+
+
+Base (Pack and Go)
+[Base.zip](https://github.com/user-attachments/files/35063358/basetop.zip)
+
+
+#### Isometric view of frame
 
