@@ -108,7 +108,7 @@ The bracket load capacity still needs verification.
 <img width="516" height="429" alt="Unknown-2" src="https://github.com/user-attachments/assets/c8ad5949-a8f4-48f0-a06b-e022bb5ee010" />
 ---
 
-## 5. Downloaded Parts
+## Downloaded Parts
 
 | Part | McMaster Number | Quantity |
 |---|---|---|
@@ -119,35 +119,22 @@ The bracket load capacity still needs verification.
 | [Bronze Flange Nut](https://www.mcmaster.com/97790A140) | 97790A140 | 2 |
 
 
-### SolidWorks CAD Files
+### Draft SolidWorks CAD Files
 
-**Motor Mount (Designed in SolidWorks)**
+**DRAFT Motor Mount (Designed in SolidWorks)**
 
 [Download Motor Mount](leadframedesign/Motor%20mount.SLDPRT)
 
-**Complete Tensile Tester Assembly (Pack and Go)**
+**DRAFT Tensile Tester Assembly (Pack and Go)**
 
 [Download Complete Assembly](leadframedesign/leadframedesign.SLDASM)
 
 
 ---
 
-## 6. Problems and Changes
-
-Initially, I designed the motor mount with separate standoffs. I later changed it to one long mounting plate to support both motors. I also had trouble aligning the motor shafts with the leadscrews because the motor mounting holes were offset from the shaft center. I corrected the mounting-hole positions and checked them in SolidWorks. Another issue was that the motor shafts and leadscrews had different diameters, requiring a modified shaft connection.
-
-## 7. Lessons Learned
-
-I learned how to select a motor using torque and speed requirements, calculate bearing stress for a motor mount, and analyze torsional shear stress in a coupling. I also learned how important accurate mounting-hole dimensions are when assembling downloaded parts in SolidWorks.
-
-**Time Spent:** 8 hours
 
 
-
-
-
-
-## Bill of Materials
+## 8. Bill of Materials
 
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
@@ -164,7 +151,7 @@ I learned how to select a motor using torque and speed requirements, calculate b
 
  **Total Cost**  **$2112.70**
 
-## Design Cost
+### Design Cost
 
 | Person | Hours worked | Cost/Hour | Cost |
 | --- | --- | --- | --- |
@@ -174,5 +161,14 @@ I learned how to select a motor using torque and speed requirements, calculate b
 | **Total Cost** | | | **$1050.00** |
 
 **Total Cost of Project:** **$3162.70**
+
+
+
+## 9. Lessons Learned
+
+(Ameer A) I learned how to select a motor using torque and speed requirements, calculate bearing stress for a motor mount, and analyze torsional shear stress in a coupling. I also learned how important accurate mounting-hole dimensions are when assembling downloaded parts in SolidWorks. Initially, I designed the motor mount with separate standoffs. I later changed it to one long mounting plate to support both motors. I also had trouble aligning the motor shafts with the leadscrews because the motor mounting holes were offset from the shaft center. I corrected the mounting-hole positions and checked them in SolidWorks. Another issue was that the motor shafts and leadscrews had different diameters, requiring a modified shaft connection.
+
+(Dillon B) Throughout this assignment I have learned the importance of working as a team and communicating the end goal of a project with others. It is important to be on the same page before and especially during the span of the project. A small mistake of one person can affect the entire project and takes excess time to correct. 
+
 
 
