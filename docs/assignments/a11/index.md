@@ -83,7 +83,7 @@ The leadscrew end will need to be machined or adapted to fit the coupling.
 
 ## 4. Top Frame Connections
 
-I used four corner brackets to connect the upper mounting plate to the two vertical T-slot frame members.
+I used eight corner brackets to connect the upper mounting plate to the two vertical T-slot frame members.
 
 I calculated the forces using the maximum tensile load of 2,000 N and the torque of both motors.
 
