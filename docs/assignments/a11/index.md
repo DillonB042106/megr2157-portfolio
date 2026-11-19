@@ -190,5 +190,10 @@ Base (Pack and Go)
 [Base.zip](https://github.com/user-attachments/files/35063358/basetop.zip)
 <a href="https://postimg.cc/xNrwHZ7J" target="_blank"><img src="https://i.postimg.cc/hvhKFW1r/Screenshot-2026-11-18-214631.png" alt="Screenshot-2026-11-18-214631"></a><br><br>
 
+
+Bearing (Pack and Go)
+
+
+
 #### Isometric view of frame
 
